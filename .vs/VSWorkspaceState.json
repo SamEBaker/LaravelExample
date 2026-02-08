@@ -1,12 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\app",
+    "\\app\\Models",
+    "\\app\\Providers",
     "\\database",
+    "\\database\\factories",
     "\\database\\migrations",
     "\\resources",
     "\\resources\\views",
-    "\\resources\\views\\Components",
     "\\routes"
   ],
+  "SelectedNode": "\\database\\factories\\UserFactory.php",
   "PreviewInSolutionExplorer": false
 }
