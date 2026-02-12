@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Sport\\Herd\\example\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\factories\\UserFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\UserFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -33,12 +34,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\migrations\\0001_01_01_000002_create_jobs_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000002_create_jobs_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+=======
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env.example||{8B382828-6202-11D1-8870-0000F87579D2}"
+>>>>>>> parent of bd364e3 (Laravel cont)
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\migrations\\2026_01_29_063117_create_job_listings_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2026_01_29_063117_create_job_listings_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\migrations\\2026_02_08_203353_create_tags_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2026_02_08_203353_create_tags_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -97,6 +103,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\app\\Models\\Tag.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Tag.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+=======
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\migrations\\0001_01_01_000000_create_users_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000000_create_users_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+>>>>>>> parent of bd364e3 (Laravel cont)
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -107,16 +117,36 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\config\\auth.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\auth.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\app\\Models\\Job.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Job.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\config\\cache.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config\\cache.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\resources\\views\\jobs.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\jobs.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env.example||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\resources\\views\\job.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\job.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\composer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:composer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\resources\\views\\contact.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\contact.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\resources\\views\\home.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\home.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\resources\\views\\Components\\layout.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -138,20 +168,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 5,
+=======
+              "DocumentIndex": 1,
+              "Title": "2026_01_29_063117_create_job_listings_table.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\2026_01_29_063117_create_job_listings_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2026_01_29_063117_create_job_listings_table.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\2026_01_29_063117_create_job_listings_table.php",
+              "RelativeToolTip": "database\\migrations\\2026_01_29_063117_create_job_listings_table.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-01-29T06:31:22.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+>>>>>>> parent of bd364e3 (Laravel cont)
               "Title": "0001_01_01_000000_create_users_table.php",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\0001_01_01_000000_create_users_table.php",
               "RelativeDocumentMoniker": "database\\migrations\\0001_01_01_000000_create_users_table.php",
               "ToolTip": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\0001_01_01_000000_create_users_table.php",
               "RelativeToolTip": "database\\migrations\\0001_01_01_000000_create_users_table.php",
+<<<<<<< HEAD
               "ViewState": "AgIAAAcAAAAAAAAAAAAywBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
               "WhenOpened": "2026-01-29T06:29:24.907Z"
@@ -203,10 +246,16 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
               "WhenOpened": "2026-02-08T20:23:42.24Z"
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-01-29T06:29:24.907Z"
+>>>>>>> parent of bd364e3 (Laravel cont)
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "UserFactory.php",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\factories\\UserFactory.php",
               "RelativeDocumentMoniker": "database\\factories\\UserFactory.php",
@@ -215,10 +264,21 @@
               "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
               "WhenOpened": "2026-02-08T20:24:02.093Z",
+=======
+              "Title": ".env.example",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\.env.example",
+              "RelativeDocumentMoniker": ".env.example",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\.env.example",
+              "RelativeToolTip": ".env.example",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-29T06:24:02.363Z",
+>>>>>>> parent of bd364e3 (Laravel cont)
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 6,
               "Title": "0001_01_01_000001_create_cache_table.php",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\0001_01_01_000001_create_cache_table.php",
@@ -436,29 +496,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 25,
+=======
+              "DocumentIndex": 3,
+              "Title": ".gitattributes",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\.gitattributes",
+              "RelativeDocumentMoniker": ".gitattributes",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\.gitattributes",
+              "RelativeToolTip": ".gitattributes",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001407|",
+              "WhenOpened": "2026-01-29T06:23:14.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+>>>>>>> parent of bd364e3 (Laravel cont)
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "C:\\Users\\Sport\\Herd\\example\\.gitignore",
               "RelativeToolTip": ".gitignore",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+>>>>>>> parent of bd364e3 (Laravel cont)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001407|",
               "WhenOpened": "2026-01-29T06:23:09.881Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 21,
+=======
+              "DocumentIndex": 8,
+              "Title": "User.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\app\\Models\\User.php",
+              "RelativeDocumentMoniker": "app\\Models\\User.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\app\\Models\\User.php",
+              "RelativeToolTip": "app\\Models\\User.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-01-29T06:00:09.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+>>>>>>> parent of bd364e3 (Laravel cont)
               "Title": "composer.json",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\composer.json",
               "RelativeDocumentMoniker": "composer.json",
               "ToolTip": "C:\\Users\\Sport\\Herd\\example\\composer.json",
               "RelativeToolTip": "composer.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-01-29T05:50:07.809Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 28,
               "Title": ".env.example",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\.env.example",
@@ -478,11 +574,21 @@
               "ToolTip": "C:\\Users\\Sport\\Herd\\example\\config\\cache.php",
               "RelativeToolTip": "config\\cache.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+=======
+              "DocumentIndex": 5,
+              "Title": "Job.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\app\\Models\\Job.php",
+              "RelativeDocumentMoniker": "app\\Models\\Job.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\app\\Models\\Job.php",
+              "RelativeToolTip": "app\\Models\\Job.php",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+>>>>>>> parent of bd364e3 (Laravel cont)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-29T06:59:15.866Z"
+              "WhenOpened": "2026-01-29T05:47:29.206Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 26,
               "Title": "auth.php",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\config\\auth.php",
@@ -490,12 +596,73 @@
               "ToolTip": "C:\\Users\\Sport\\Herd\\example\\config\\auth.php",
               "RelativeToolTip": "config\\auth.php",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+=======
+              "DocumentIndex": 7,
+              "Title": "job.blade.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\job.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\job.blade.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\job.blade.php",
+              "RelativeToolTip": "resources\\views\\job.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+>>>>>>> parent of bd364e3 (Laravel cont)
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-29T06:59:17.852Z"
+              "WhenOpened": "2026-01-29T05:33:03.368Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 29,
+=======
+              "DocumentIndex": 11,
+              "Title": "contact.blade.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\contact.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\contact.blade.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\contact.blade.php",
+              "RelativeToolTip": "resources\\views\\contact.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-01-22T23:23:48.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "jobs.blade.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\jobs.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\jobs.blade.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\jobs.blade.php",
+              "RelativeToolTip": "resources\\views\\jobs.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-01-22T23:20:00.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "home.blade.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\home.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\home.blade.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\home.blade.php",
+              "RelativeToolTip": "resources\\views\\home.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-01-22T22:38:37.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "web.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\routes\\web.php",
+              "RelativeDocumentMoniker": "routes\\web.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\routes\\web.php",
+              "RelativeToolTip": "routes\\web.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-01-22T22:37:36.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+>>>>>>> parent of bd364e3 (Laravel cont)
               "Title": "layout.blade.php",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\Components\\layout.blade.php",
               "RelativeDocumentMoniker": "resources\\views\\Components\\layout.blade.php",
@@ -507,7 +674,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 30,
+=======
+              "DocumentIndex": 14,
+>>>>>>> parent of bd364e3 (Laravel cont)
               "Title": "Route.php",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
               "RelativeDocumentMoniker": "vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
@@ -519,7 +690,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 31,
+=======
+              "DocumentIndex": 15,
+>>>>>>> parent of bd364e3 (Laravel cont)
               "Title": "nav-link.blade.php",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\Components\\nav-link.blade.php",
               "RelativeDocumentMoniker": "resources\\views\\Components\\nav-link.blade.php",

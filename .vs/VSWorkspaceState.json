@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\app",
-    "\\app\\Models",
-    "\\app\\Providers",
     "\\database",
-    "\\database\\factories",
     "\\database\\migrations",
     "\\resources",
     "\\resources\\views",
+    "\\resources\\views\\Components",
     "\\routes"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\database\\migrations\\2026_02_08_203353_create_tags_table.php",
+=======
+>>>>>>> parent of bd364e3 (Laravel cont)
   "PreviewInSolutionExplorer": false
 }
