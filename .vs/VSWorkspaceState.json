@@ -11,6 +11,6 @@
     "\\resources\\views",
     "\\routes"
   ],
-  "SelectedNode": "\\database\\factories\\UserFactory.php",
+  "SelectedNode": "\\database\\migrations\\2026_02_08_203353_create_tags_table.php",
   "PreviewInSolutionExplorer": false
 }

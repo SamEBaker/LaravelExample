@@ -3,12 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\Sport\\Herd\\example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\app\\Models\\Job.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Job.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\factories\\UserFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\UserFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\factories\\TagFactory.php||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\TagFactory.php||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\factories\\JobFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\JobFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\factories\\EmployerFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\factories\\EmployerFactory.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\migrations\\2026_02_08_203333_create_employers_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2026_02_08_203333_create_employers_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\migrations\\0001_01_01_000000_create_users_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000000_create_users_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\migrations\\0001_01_01_000001_create_cache_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000001_create_cache_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\migrations\\0001_01_01_000002_create_jobs_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000002_create_jobs_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\migrations\\2026_01_29_063117_create_job_listings_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2026_01_29_063117_create_job_listings_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\migrations\\2026_02_08_203353_create_tags_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2026_02_08_203353_create_tags_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\resources\\views\\job.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\job.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\resources\\views\\contact.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\contact.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\resources\\views\\home.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\home.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\resources\\views\\jobs.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\jobs.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\routes\\console.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\console.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\seeders\\DatabaseSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\seeders\\DatabaseSeeder.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\app\\Models\\Employer.php||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Employer.php||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\app\\Models\\Job.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Job.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\composer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:composer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\app\\Providers\\AppServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Providers\\AppServiceProvider.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\app\\Models\\Tag.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\Tag.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -31,38 +119,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env.example||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\migrations\\2026_01_29_063117_create_job_listings_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\2026_01_29_063117_create_job_listings_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\database\\migrations\\0001_01_01_000000_create_users_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\migrations\\0001_01_01_000000_create_users_table.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\resources\\views\\job.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\job.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\Models\\User.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:routes\\web.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\composer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:composer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\resources\\views\\contact.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\contact.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\resources\\views\\home.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\home.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sport\\Herd\\example\\resources\\views\\Components\\layout.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\Components\\layout.blade.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -82,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,31 +146,302 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "0001_01_01_000000_create_users_table.php",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\0001_01_01_000000_create_users_table.php",
               "RelativeDocumentMoniker": "database\\migrations\\0001_01_01_000000_create_users_table.php",
               "ToolTip": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\0001_01_01_000000_create_users_table.php",
               "RelativeToolTip": "database\\migrations\\0001_01_01_000000_create_users_table.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAywBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-29T06:29:24.907Z"
+              "WhenOpened": "2026-01-29T06:29:24.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": ".env.example",
-              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\.env.example",
-              "RelativeDocumentMoniker": ".env.example",
-              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\.env.example",
-              "RelativeToolTip": ".env.example",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-01-29T06:24:02.363Z"
+              "DocumentIndex": 4,
+              "Title": "2026_02_08_203333_create_employers_table.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\2026_02_08_203333_create_employers_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2026_02_08_203333_create_employers_table.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\2026_02_08_203333_create_employers_table.php",
+              "RelativeToolTip": "database\\migrations\\2026_02_08_203333_create_employers_table.php",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-02-08T20:34:07.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployerFactory.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\factories\\EmployerFactory.php",
+              "RelativeDocumentMoniker": "database\\factories\\EmployerFactory.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\database\\factories\\EmployerFactory.php",
+              "RelativeToolTip": "database\\factories\\EmployerFactory.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-02-08T20:22:53.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "JobFactory.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\factories\\JobFactory.php",
+              "RelativeDocumentMoniker": "database\\factories\\JobFactory.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\database\\factories\\JobFactory.php",
+              "RelativeToolTip": "database\\factories\\JobFactory.php",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-02-08T20:23:16.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TagFactory.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\factories\\TagFactory.php",
+              "RelativeDocumentMoniker": "database\\factories\\TagFactory.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\database\\factories\\TagFactory.php",
+              "RelativeToolTip": "database\\factories\\TagFactory.php",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-02-08T20:23:42.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserFactory.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\factories\\UserFactory.php",
+              "RelativeDocumentMoniker": "database\\factories\\UserFactory.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\database\\factories\\UserFactory.php",
+              "RelativeToolTip": "database\\factories\\UserFactory.php",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-02-08T20:24:02.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "0001_01_01_000001_create_cache_table.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\0001_01_01_000001_create_cache_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\0001_01_01_000001_create_cache_table.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\0001_01_01_000001_create_cache_table.php",
+              "RelativeToolTip": "database\\migrations\\0001_01_01_000001_create_cache_table.php",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-02-08T21:00:38.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "0001_01_01_000002_create_jobs_table.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\0001_01_01_000002_create_jobs_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\0001_01_01_000002_create_jobs_table.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\0001_01_01_000002_create_jobs_table.php",
+              "RelativeToolTip": "database\\migrations\\0001_01_01_000002_create_jobs_table.php",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-02-08T21:00:21.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "2026_02_08_203353_create_tags_table.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\2026_02_08_203353_create_tags_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2026_02_08_203353_create_tags_table.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\2026_02_08_203353_create_tags_table.php",
+              "RelativeToolTip": "database\\migrations\\2026_02_08_203353_create_tags_table.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-02-08T20:34:57.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "job.blade.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\job.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\job.blade.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\job.blade.php",
+              "RelativeToolTip": "resources\\views\\job.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-01-29T05:33:03.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "contact.blade.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\contact.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\contact.blade.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\contact.blade.php",
+              "RelativeToolTip": "resources\\views\\contact.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-01-22T23:23:48.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "home.blade.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\home.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\home.blade.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\home.blade.php",
+              "RelativeToolTip": "resources\\views\\home.blade.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-01-22T22:38:37.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "2026_01_29_063117_create_job_listings_table.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\2026_01_29_063117_create_job_listings_table.php",
+              "RelativeDocumentMoniker": "database\\migrations\\2026_01_29_063117_create_job_listings_table.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\2026_01_29_063117_create_job_listings_table.php",
+              "RelativeToolTip": "database\\migrations\\2026_01_29_063117_create_job_listings_table.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-01-29T06:31:22.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "jobs.blade.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\jobs.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\jobs.blade.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\jobs.blade.php",
+              "RelativeToolTip": "resources\\views\\jobs.blade.php",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-01-22T23:20:00.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "console.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\routes\\console.php",
+              "RelativeDocumentMoniker": "routes\\console.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\routes\\console.php",
+              "RelativeToolTip": "routes\\console.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-02-08T20:37:28.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "web.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\routes\\web.php",
+              "RelativeDocumentMoniker": "routes\\web.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\routes\\web.php",
+              "RelativeToolTip": "routes\\web.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-01-22T22:37:36.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatabaseSeeder.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\seeders\\DatabaseSeeder.php",
+              "RelativeDocumentMoniker": "database\\seeders\\DatabaseSeeder.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\database\\seeders\\DatabaseSeeder.php",
+              "RelativeToolTip": "database\\seeders\\DatabaseSeeder.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-02-08T20:55:47.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\.gitignore",
+              "RelativeDocumentMoniker": "database\\.gitignore",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\database\\.gitignore",
+              "RelativeToolTip": "database\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001407|",
+              "WhenOpened": "2026-02-08T20:55:45.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\app\\Models\\User.php",
+              "RelativeDocumentMoniker": "app\\Models\\User.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\app\\Models\\User.php",
+              "RelativeToolTip": "app\\Models\\User.php",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-01-29T06:00:09.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employer.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\app\\Models\\Employer.php",
+              "RelativeDocumentMoniker": "app\\Models\\Employer.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\app\\Models\\Employer.php",
+              "RelativeToolTip": "app\\Models\\Employer.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-02-08T20:17:54.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Job.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\app\\Models\\Job.php",
+              "RelativeDocumentMoniker": "app\\Models\\Job.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\app\\Models\\Job.php",
+              "RelativeToolTip": "app\\Models\\Job.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-01-29T05:47:29.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppServiceProvider.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\app\\Providers\\AppServiceProvider.php",
+              "RelativeDocumentMoniker": "app\\Providers\\AppServiceProvider.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\app\\Providers\\AppServiceProvider.php",
+              "RelativeToolTip": "app\\Providers\\AppServiceProvider.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-02-08T20:21:00.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Tag.php",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\app\\Models\\Tag.php",
+              "RelativeDocumentMoniker": "app\\Models\\Tag.php",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\app\\Models\\Tag.php",
+              "RelativeToolTip": "app\\Models\\Tag.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-02-08T20:20:17.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": ".gitattributes",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\.gitattributes",
               "RelativeDocumentMoniker": ".gitattributes",
@@ -126,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 25,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -138,57 +465,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "User.php",
-              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\app\\Models\\User.php",
-              "RelativeDocumentMoniker": "app\\Models\\User.php",
-              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\app\\Models\\User.php",
-              "RelativeToolTip": "app\\Models\\User.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-29T06:00:09.623Z"
+              "DocumentIndex": 21,
+              "Title": "composer.json",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\composer.json",
+              "RelativeDocumentMoniker": "composer.json",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\composer.json",
+              "RelativeToolTip": "composer.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-29T05:50:07.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "jobs.blade.php",
-              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\jobs.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\jobs.blade.php",
-              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\jobs.blade.php",
-              "RelativeToolTip": "resources\\views\\jobs.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-22T23:20:00.535Z",
-              "EditorCaption": ""
+              "DocumentIndex": 28,
+              "Title": ".env.example",
+              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\.env.example",
+              "RelativeDocumentMoniker": ".env.example",
+              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\.env.example",
+              "RelativeToolTip": ".env.example",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-29T06:24:02.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Job.php",
-              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\app\\Models\\Job.php",
-              "RelativeDocumentMoniker": "app\\Models\\Job.php",
-              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\app\\Models\\Job.php",
-              "RelativeToolTip": "app\\Models\\Job.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-29T05:47:29.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "2026_01_29_063117_create_job_listings_table.php",
-              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\2026_01_29_063117_create_job_listings_table.php",
-              "RelativeDocumentMoniker": "database\\migrations\\2026_01_29_063117_create_job_listings_table.php",
-              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\database\\migrations\\2026_01_29_063117_create_job_listings_table.php",
-              "RelativeToolTip": "database\\migrations\\2026_01_29_063117_create_job_listings_table.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-29T06:31:22.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 27,
               "Title": "cache.php",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\config\\cache.php",
               "RelativeDocumentMoniker": "config\\cache.php",
@@ -200,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 26,
               "Title": "auth.php",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\config\\auth.php",
               "RelativeDocumentMoniker": "config\\auth.php",
@@ -212,67 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "composer.json",
-              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\composer.json",
-              "RelativeDocumentMoniker": "composer.json",
-              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\composer.json",
-              "RelativeToolTip": "composer.json",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-29T05:50:07.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "job.blade.php",
-              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\job.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\job.blade.php",
-              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\job.blade.php",
-              "RelativeToolTip": "resources\\views\\job.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-29T05:33:03.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "contact.blade.php",
-              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\contact.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\contact.blade.php",
-              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\contact.blade.php",
-              "RelativeToolTip": "resources\\views\\contact.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-22T23:23:48.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "home.blade.php",
-              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\home.blade.php",
-              "RelativeDocumentMoniker": "resources\\views\\home.blade.php",
-              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\home.blade.php",
-              "RelativeToolTip": "resources\\views\\home.blade.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-22T22:38:37.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "web.php",
-              "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\routes\\web.php",
-              "RelativeDocumentMoniker": "routes\\web.php",
-              "ToolTip": "C:\\Users\\Sport\\Herd\\example\\routes\\web.php",
-              "RelativeToolTip": "routes\\web.php",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-01-22T22:37:36.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "layout.blade.php",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\Components\\layout.blade.php",
               "RelativeDocumentMoniker": "resources\\views\\Components\\layout.blade.php",
@@ -284,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 30,
               "Title": "Route.php",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
               "RelativeDocumentMoniker": "vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Route.php",
@@ -296,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 31,
               "Title": "nav-link.blade.php",
               "DocumentMoniker": "C:\\Users\\Sport\\Herd\\example\\resources\\views\\Components\\nav-link.blade.php",
               "RelativeDocumentMoniker": "resources\\views\\Components\\nav-link.blade.php",
