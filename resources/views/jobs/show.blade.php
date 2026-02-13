@@ -6,7 +6,7 @@
     <h2 class="font-bold text-lg">{{ $job->title }}</h2>
 
     <p>
-        This job pays {{ $job->salary }} per year.
+        This job {{ $job->salary }} blah job desc here.
     </p>
 
     @can('edit', $job)

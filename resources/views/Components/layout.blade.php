@@ -1,26 +1,28 @@
 <!doctype html>
-<html lang="en" class="h-full bg-gray-100">
+<html lang="en" class="h-full bg-slate-950">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>My Website</title>
+    <title>My Cool Website</title>
     @vite(['resources/js/app.js'])
 </head>
 
-<body class="h-full">
+<body class="h-full text-white">
     <div class="min-h-full">
-        <nav class="bg-gray-800">
-            <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <nav class="bg-black border-b border-orange-500 shadow-lg">
+            <div class="min-h-full bg-gradient-to-b from-black to-zinc-900">
                 <div class="flex h-16 items-center justify-between">
                     <div class="flex items-center">
-                        <div class="flex-shrink-0">
-                            <img
-                              class="h-10 w-10 rounded-full object-cover"
-                              src="https://image2url.com/r2/default/gifs/1770929831836-45eddab9-26ab-456e-9f27-ab46d228ad9f.gif"
-                              alt="Animated GIF"
-                            />
+                       <div class="flex-shrink-0">
+                            <div class="h-10 w-10 rounded-full bg-orange-500 flex items-center justify-center text-black font-bold shadow-md">
+                                BB
+                            </div>
+                        </div>
+
+                        <div class="ml-3 text-xl font-semibold tracking-wide text-white">
+                            B&B Landscapes
                         </div>
                         <div class="hidden md:block">
                             <div class="ml-10 flex items-baseline space-x-4">
@@ -108,11 +110,11 @@
             </div>
         </nav>
 
-        <header class="bg-white shadow">
+        <header class="bg-zinc-900 border-b border-orange-500 shadow">
             <div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8 sm:flex sm:justify-between">
-                <h1 class="text-3xl font-bold tracking-tight text-gray-900">{{ $heading }}</h1>
+                <h1 class="text-3xl font-bold tracking-tight text-white">{{ $heading }}</h1>
 
-                <x-button href="/jobs/create">Create Job</x-button>
+                <x-button href="/jobs/create">Request Estimate</x-button>
             </div>
         </header>
 
