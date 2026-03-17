@@ -17,10 +17,30 @@ class JobFactory extends Factory
      */
     public function definition(): array
     {
+        $images = [
+            'landscape1.jpg',
+            'landscape2.jpg',
+            'landscape3.jpg',
+            'landscape4.jpg',
+            'landscape5.jpg',
+        ];
+
+        return [
+            'title' => fake()->jobTitle(),
+            'employer_id' => Employer::factory(),
+            'description' => fake()->paragraph(),
+            'image' => fake()->randomElement($images),
+        ];
+    }
+}
+/*
+    public function definition(): array
+    {
         return [
             'title' => fake()->jobTitle(),
             'employer_id' => Employer::factory(),
             'salary' => '$50,000 USD'
+            'avatar' => fake()->image(storage_path('images'), 50, 50)
         ];
     }
-}
+*/

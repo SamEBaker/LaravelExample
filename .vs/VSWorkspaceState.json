@@ -2,17 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\View",
-    "\\app\\View\\Components",
-    "\\bootstrap",
+    "\\app\\Models",
+    "\\database",
+    "\\database\\seeders",
     "\\resources",
-    "\\resources\\css",
-    "\\resources\\js",
     "\\resources\\views",
     "\\resources\\views\\components",
-    "\\resources\\views\\jobs",
-    "\\routes"
+    "\\resources\\views\\contact",
+    "\\resources\\views\\mail"
   ],
-  "SelectedNode": "\\app\\View\\Components\\Layout.php",
+  "SelectedNode": "\\app\\Models\\User.php",
   "PreviewInSolutionExplorer": false
 }

@@ -1,6 +1,6 @@
 <x-layout>
     <x-slot:heading>
-        Contact Page
+        About Page
     </x-slot:heading>
 
     <h1>blah@gmail.com.</h1>
