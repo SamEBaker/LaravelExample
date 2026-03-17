@@ -11,7 +11,7 @@ class JobController extends Controller
 {
     public function index()
     {
-        $jobs = Job::with('employer')->latest()->simplePaginate(3);
+        $jobs = Job::with('employer')->latest()->simplePaginate(9);
 
         return view('jobs.index', [
             'jobs' => $jobs
@@ -32,13 +32,15 @@ class JobController extends Controller
     {
         request()->validate([
             'title' => ['required', 'min:3'],
-            'salary' => ['required']
+            'description' => ['nullable', 'string'],
+            'image' => ['nullable', 'string'],
         ]);
 
         $job = Job::create([
             'title' => request('title'),
-            'salary' => request('salary'),
-            'employer_id' => 1
+            'description' => request('description'),
+            'image' => request('image'),
+            'employer_id' => 1,
         ]);
 
         Mail::to($job->employer->user)->queue(
@@ -55,19 +57,18 @@ class JobController extends Controller
 
     public function update(Job $job)
     {
-        Gate::authorize('edit-job', $job);
+        $this->authorize('edit', $job);
 
         request()->validate([
             'title' => ['required', 'min:3'],
-            'salary' => ['required']
+            'description' => ['nullable', 'string'],
+            'image' => ['nullable', 'string'],
         ]);
 
-        $job->update([
-            'title' => request('title'),
-            'salary' => request('salary'),
-        ]);
+        $job->update(request()->only('title', 'description', 'image'));
 
-        return redirect('/jobs/' . $job->id);
+        return redirect('/jobs/', $job->index)
+                         ->with('success', 'Job updated successfully!');
     }
 
     public function destroy(Job $job)
