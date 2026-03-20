@@ -3,7 +3,7 @@
 </h2>
 
 <p>
-    Congrats! Your job is now live on our website.
+    Congrats! Your job is now live on our website!
 </p>
 
 <p>

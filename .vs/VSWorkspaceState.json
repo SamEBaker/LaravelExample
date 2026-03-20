@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\app",
-    "\\app\\Models",
-    "\\database",
-    "\\database\\seeders",
+    "\\app\\Http",
+    "\\app\\Job",
+    "\\app\\Mail",
+    "\\public",
     "\\resources",
     "\\resources\\views",
-    "\\resources\\views\\components",
-    "\\resources\\views\\contact",
-    "\\resources\\views\\mail"
+    "\\resources\\views\\emails",
+    "\\routes"
   ],
-  "SelectedNode": "\\app\\Models\\User.php",
+  "SelectedNode": "\\resources\\views\\contact.blade.php",
   "PreviewInSolutionExplorer": false
 }
